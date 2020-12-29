@@ -16,7 +16,6 @@ const MovieReviews = ({reviews}) => {
         </div>
     );
 }
-    // 'https://api.nytimes.com/svc/movies/v2/reviews/all.json?api-key=Y5CQi2LIxH5bgkEVHadYrQPHUizosvNQ'
 
 export default MovieReviews;  
      
